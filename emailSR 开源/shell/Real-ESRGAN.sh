@@ -1,0 +1,2 @@
+cd /Users/wangyining/Desktop/Archive/Real-ESRGAN #超分算法文件夹路径
+./realesrgan-ncnn-vulkan -i /Users/wangyining/Desktop/Archive/python/emailSR/Pic_recv -o /Users/wangyining/Desktop/Archive/python/emailSR/Pic_send #输入与输出文件夹

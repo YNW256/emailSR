@@ -1,0 +1,2 @@
+cd /Users/wangyining/Desktop/Archive/Real-ESRGAN
+./realesrgan-ncnn-vulkan -i /Users/wangyining/Desktop/Archive/python/emailSR/Pic_recv -o /Users/wangyining/Desktop/Archive/python/emailSR/Pic_send -n realesrgan-x4plus-anime
